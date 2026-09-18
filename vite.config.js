@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/veda-Heritage-Restauarant-/',
+  base: '/restuarant-demo/',
   plugins: [
     react(),
     tailwindcss()
